@@ -52,7 +52,7 @@ README.md: This file.
 
 In our study, we observed that:
 
-- The RNN and ANN models, after applying Gaussian noise for differential privacy, outperformed traditional machine learning classifiers.
+- The RNN and ANN models, after applying Gaussian noise for differential privacy, outperformed both advance and traditional machine learning classifiers.
 - The models successfully maintained privacy while ensuring high predictive accuracy for patient outcomes.
 
 ## Future Work
